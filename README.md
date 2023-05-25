@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer, building the frontend for web applications.
+- :telescope: I’m a Software Engineer building responsive web applications.
 
 - :seedling: Exploring frontend frameworks, expanding skillset.
 
