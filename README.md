@@ -34,7 +34,6 @@
 
 ### :fire: My Stats :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannyvogel&show_icons=true&theme=blueberry" alt="Danny Vogel contribs" />
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvogel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
