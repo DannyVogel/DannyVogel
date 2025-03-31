@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Danny 👋</h1>
 <div id="header" align="center">
-  <a href="https://dannyvogel.netlify.app/" target="_blank">My Portfolio Site</a>
+  <a href="https://danny-v.me" target="_blank">My Portfolio Site</a>
 </div>
 
 <div id="header" align="center">
